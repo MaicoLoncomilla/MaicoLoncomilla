@@ -39,4 +39,4 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/maico-loncomilla-5714831b5/
+[linkedin]: https://www.linkedin.com/in/maicoLoncomilla/
