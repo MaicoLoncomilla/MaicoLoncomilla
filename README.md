@@ -1,7 +1,6 @@
 ### Hi there, I'm Maico
 #### I'm Full-stack Web Developer 
 
-- 🔭 I’m currently working on Henry Labs (Henry coding bootcamp final proyect)
 - 🌱 I’m currently learning FireBase and Next.js
 
 ### Connect me:
