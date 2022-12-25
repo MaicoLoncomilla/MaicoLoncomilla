@@ -1,8 +1,6 @@
 ### Hi there, I'm Maico
 #### I'm Full-stack Web Developer 
 
-- 🌱 I’m currently learning FireBase and Next.js
-
 ### Connect me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
